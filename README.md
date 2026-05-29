@@ -1,2 +1,21 @@
-# python-calculator
-A calculator application built with python and Tkinter, featuring basic arithmetic operations, square root, percentage calculations, keyboard support, and calculation history.
+# Python Calculator
+
+A calculator application built with Python and Tkinter.
+
+## Features
+- Addition
+- Subtraction
+- Multiplication
+- Division
+- Percentage
+- Square Root
+- Keyboard Support
+- History
+- Delete Last Character
+
+## Technologies
+- Python
+- Tkinter
+
+## Author
+Mash'Ti Waleed
